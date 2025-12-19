@@ -1,17 +1,15 @@
-### &nbsp;			   ASP.NET PROGRAMS
+<div align = "center" >
 
+# **ASP.NET PROGRAMS**
 
+<hr>
 
-#####  					LAB - 2 PROGRAMS
+## LAB - 2 PROGRAMS
+</div>
 
-
-
-
-
-######  				    Lab - 2 Program - 1(Multiplication Table)
-
-
-
+<br><br>
+###  LAB - 2<abbr> PROGRAM : 1 <abbr>
+<hr><br>
 
 
 Console.WriteLine("Enter The Number To Print Multiplication Table: ");
@@ -28,11 +26,9 @@ for (int i = 1; i <= 10; i++)
 
 }
 
-
-
-######  					   LAB - 2 Program - 2
-
-
+<br><br>
+###  LAB - 2<abbr> PROGRAM : 2 <abbr>
+<hr><br>
 
 Console.WriteLine("Enter The String To Count Character , Digit , Special Character: ");
 
@@ -86,15 +82,9 @@ Console.WriteLine("Character: " + countCharacter);
 
 Console.WriteLine("Special Character: " + countSpecialCharacter);
 
-
-
-
-
-######  				    Lab - 2 Program -3 ( Grade System )
-
-
-
-
+<br><br>
+###  LAB - 2<abbr> PROGRAM : 3 <abbr>
+<hr><br>
 
             Console.WriteLine("Enter The Five Subject Marks Out Of 100: ");
 
@@ -203,6 +193,7 @@ Console.WriteLine("Special Character: " + countSpecialCharacter);
                 Console.WriteLine("Fail");
 
             }
+
 
 
 
