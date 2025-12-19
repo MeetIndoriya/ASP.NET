@@ -1,14 +1,14 @@
-## **ASP.NET PROGRAMS**
+<div align = "center">
 
+# **ASP.NET PROGRAMS**
+<hr>
 
+##  					  LAB - 1 PROGRAMS
+</div>
 
-#####  					  LAB - 1 PROGRAMS
-
-
-
-######  						Lab - 1 Program - 1
-
-
+<br><br>
+###  LAB - 1<abbr> PROGRAM : 1 <abbr>
+<hr><br>
 
 Console.WriteLine("Name: Meet");
 
@@ -18,13 +18,11 @@ Console.WriteLine("Contact: 745xxxxxx0");
 
 Console.WriteLine("City: Jamnagar ");
 
-###### 
 
-###### 
+<br><br>
+###  LAB - 1<abbr> PROGRAM : 2 <abbr>
+<hr><br>
 
-######  						Lab - 1 Program - 2
-
-###### 
 
 Console.WriteLine("\\nEnter The First Number: ");
 
@@ -42,11 +40,9 @@ Console.WriteLine("\\n" + Num1);
 
 Console.WriteLine(Num2);
 
-###### 
-
-######  						Lab - 1 Program - 3
-
-###### 
+<br><br>
+###  LAB - 1<abbr> PROGRAM : 3 <abbr>
+<hr><br>
 
 Console.WriteLine("\\nEnter Your Name: ");
 
@@ -58,12 +54,10 @@ String userCountry = Console.ReadLine();
 
 Console.WriteLine("\\nUser's Name Is :- " + userName + " And Country Is :- " + userCountry);
 
-###### 
 
-###### 
-
-######  						Lab - 1 Program - 4
-
+<br><br>
+###  LAB - 1<abbr> PROGRAM : 4 <abbr>
+<hr><br>
 
 
 Console.WriteLine("\\nEnter The Temperature in Celsius: - ");
@@ -74,17 +68,11 @@ Double celsiusCon = Convert.ToDouble(celsius);
 
 double fahrenheit = (((celsiusCon \* 9) / 5) + 32);
 
-
-
 Console.WriteLine("\\n fahrenheit = " + fahrenheit);
 
-###### 
-
-###### 
-
-######  						Lab - 1 Program - 5 ( calculate Employee Gross and net Salary )
-
-
+<br><br>
+###  LAB - 1<abbr> PROGRAM : 5 <abbr>
+<hr><br>
 
 Console.WriteLine("\\n Enter Your Net Salary: ");
 
@@ -107,6 +95,7 @@ Console.WriteLine("deduction 8%: " + (deduction \* 0.08));
 Console.WriteLine("Employee Gross : " + ((hraSalary \* 0.10) + (daSalary \* 0.15) + (deduction \* 0.08)));
 
 Console.WriteLine("Emplyee Net Salary After Gross:  " + (newSalary + (hraSalary \* 0.10) + (daSalary \* 0.15) + (deduction \* 0.08)));
+
 
 
 
