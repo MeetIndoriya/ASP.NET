@@ -1,4 +1,10 @@
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=ASP%20.NET&reversal=true&textBg=false&animation=scaleIn">
+</p>
+
+
+
 # Establishing SQL Connection & Displaying Department Data
 
 
@@ -290,5 +296,9 @@ public IActionResult Index()
 **SP → ConnectionString → IConfiguration → SqlClient → Command → Reader → Model → List → View**
 
 ---
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
 
 ✅ This approach is **recommended for exams, interviews, and real projects**.
